@@ -1,156 +1,209 @@
 [
-    {
-      "id": 1,
-      "imgUrl": "https://www.stamtec.com/images/employment.png",
-      "title": "Project Manager",
-      "employer": "Stamtec, Inc",
-      "employerWebsite": "https://www.stamtec.com",
-      "jobPostingUrl": "https://urldefense.com/v3/__https:/www.stamtec.com/employment__;!!EjwLaf5ypvk!vw1LWTpAs6q3Nt72MWISRezHg_KankH2Zwg2y5drLPBZ-dOfWAydxUaAhVNGo_FtLgvelI3f72UBQhQ$",
-      "location": "Manchester, TN 37355",
-      "description": "\n        <strong>\n        Stamtec, Inc., a manufacturer of metal stamping and forming presses, is seeking a Project Manager/Engineer in the Sales/Projects Department. This is not a remote position. Project Manager must work from Stamtec in Manchester, TN, which is located about one hour from Nashville, ½ hour from Murfreesboro, and one hour from Chattanooga. Stamtec offers a competitive salary commensurate with experience and excellent benefits including health, dental, vision, and 401k profit sharing plan.\n        </strong>\n        <br/><br/>\n        \n        <h4>Desired Skills</h4>\n        <ol>\n            <li> Proficiency in Microsoft Office Suite and Microsoft Project  </li> \n         <li> Well-developed writing skills </li> \n         <li>  Competence in reading, understanding, and working with engineering department on AutoCAD drawings and electrical schematics. </li> \n         <li>  Technical knowledge of mechanical metal-stamping presses or related industries, especially automotive and appliance </li> \n            <li> Strong understanding of mechanical concepts and their applications. </li>\n            <li> Familiarity with manufacturing processes, machinery, and equipment. </li>\n            <li> Proactive mindset with ability to foresee potential risks and take preventive action to mitigate or avoid them. </li>\n            <li> Confidence and determination to impose success in reaching critical project milestones while enhancing customer experience and maintaining project budget. </li>\n            <li> High level of motivation & creativity to actualize solutions in fast-paced & dynamic situations. </li>\n            </li>\n            <li> An Associate’s or Bachelor’s Degree in Engineering, or Certification as a Professional Project Manager is strongly preferred </li>\n         </ol>\n        ",
-      "locationRequirement": "In-person",
-      "jobAgreementType": "Employee",
-      "jobSchedule": "Full-time",
-      "experienceLevel": "Entry-level",
-      "citizenshipRequired": true,
-      "baseSalary": "Entry Level",
-      "workHours": "1st Shift",
-      "coursesRequired": [],
-      "microCredentialsRequired": [
-        {
-          "id": "0",
-          "name": "Microsoft Office"
-        },
-        {
-          "id": "1",
-          "name": "Writing Skills"
-        },
-        {
-          "id": "2",
-          "name": "AutoCAD"
-        },
-        {
-          "id": "3",
-          "name": "Metal-stamping"
-        }
-      ],
-      "skillsRequired": []
-    },
-    {
-      "id": 2,
-      "imgUrl": "https://www.valeo.com/wp-content/uploads/2022/08/valeo_recherche_developpement_Bobigny_2000x884_acf_cropped.jpg",
-      "title": "CMM Technician",
-      "employer": "Valeo, Inc.",
-      "employerWebsite": "https://www.valeo.com/en/working-at-valeo/",
-      "jobPostingUrl": null,
-      "location": "Smyrna, TN 37167",
-      "description": "\n        <p>\n        As part of a global community of talented people, you will grow and thrive working on advanced technologies for greener, safer and smarter mobility. Our company culture gives all our employees the opportunity every day to #Dare.Care.Share. \n        <ul>\n            <li>Preferred 2 year Associates Applied Science Degree minimum, Basic CMM certification, and other gage certifications </li>\n            <li>Experience with Ployworks a must, any CMM equipment example: FARO, CREAFORM, etc., along with gage calibration. </li>\n            <li>Knowlege in Engine Cooling background, preferably in the automotive industry. </li>\n        </ul>\n        <ul>\n         <li> Experience with Ployworks a must, any CMM equipment example: FARO, CREAFORM, etc., along with gage calibration. </li>\n          <li> Knowlege in Engine Cooling background, preferably in the automotive industry. </li>\n\n        </ul>\n        <ul>\n        <li> Program, operate, and perform maintenance on Coordinate Measuring Machine.  </li>\n        <li> Develop and help maintain plant wide calibration systems according to QS 9000 and American Association of Laboratory Accreditation standards.</li>  \n        <li> Participate in Design review meetings to recommend acceptable datum schemes for products. </li>\n         <li> Assist with development and training of CMM and Calibration Technicians.</li>\n        </ul>\n        </p>\n       \n        ",
-      "locationRequirement": "In-person",
-      "jobAgreementType": "Employee",
-      "jobSchedule": "Full-time",
-      "experienceLevel": "Knowlege in Engine Cooling background, preferably in the automotive industry.",
-      "citizenshipRequired": true,
-      "baseSalary": "Entry Level",
-      "workHours": "1st Shift",
-      "educationRequired": "Preferred 2 year Associates Applied Science Degree minimum, Basic CMM certification, and other gage certifications.",
-      "coursesRequired": [],
-      "microCredentialsRequired": [
-        {
-          "id": "0",
-          "name": "Ployworks"
-        },
-        {
-          "id": "1",
-          "name": "Engine Cooling"
-        }
-      ],
-      "skillsRequired": []
-    },
-    {
-      "id": 3,
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6ifn66wkMGZeMoUjTdb6Nq4FQRJPI98004Mq9AChWfDmbljiD6mU_8E1hcFWG6iDO64&usqp=CAU",
-      "title": "Production Technician Apprentice",
-      "employer": "BASF",
-      "employerWebsite": "https://www.basf.com/us/en.html",
-      "jobPostingUrl": null,
-      "location": "Sparta, TN 38583",
-      "description": "\n            <p>\n            To be a successful completetionist of the apprenticeship and remain as a BASF employee they must successfully complete all OJT requirements, work safely, have good attendance, and maintain a 2.0 GPA per class. \n            </p>\n        ",
-      "locationRequirement": "In-person",
-      "jobAgreementType": "Employee",
-      "jobSchedule": "Full-time",
-      "experienceLevel": "Entry-level",
-      "citizenshipRequired": true,
-      "baseSalary": "Entry-level",
-      "workHours": "1st Shift",
-      "educationRequired": "AAS General Studies by end of six (6) semesters",
-      "coursesRequired": [
-        {
-          "id": "SACA,C-201",
-          "name": "Electrical Systems 1"
-        },
-        {
-          "id": "SACA,C-210",
-          "name": "Mechanical Power Systems 1"
-        },
-        {
-          "id": "SACA,C-209",
-          "name": "Pneumatic Systems 1"
-        }
-      ],
-      "microCredentialsRequired": [],
-      "skillsRequired": [
-        {
-          "id": "0",
-          "name": "MSCC 1300 - First-Year Experience"
-        },
-        {
-          "id": "1",
-          "name": "READ 0810 - Learning Support Reading"
-        },
-        {
-          "id": "2",
-          "name": "MECH 1310 - Electrical Components"
-        },
-        {
-          "id": "3",
-          "name": "MECH 1320 - Mechanical Components and Electrical Drives"
-        },
-        {
-          "id": "4",
-          "name": "ENGL 0810 - Learning Support Writing"
-        },
-        {
-          "id": "5",
-          "name": "INFS 1010 - Computer Applications"
-        },
-        {
-          "id": "7",
-          "name": "ENGL 1010 - English Composition I"
-        },
-        {
-          "id": "8",
-          "name": "INFS 1010 - Computer Applications"
-        },
-        {
-          "id": "9",
-          "name": "HPE 2320 - First Aid and Safety"
-        },
-        {
-          "id": "10",
-          "name": "Elective (BUSN 1300, HPE 2300, or HPE 2340)"
-        },
-        {
-          "id": "11",
-          "name": "BUSN 1310 - Business Communications"
-        },
-        {
-          "id": "12",
-          "name": "MATH 0101 - Learning Support Math-General St"
-        },
-        {
-          "id": "13",
-          "name": "MATH 1010 - Math for General Studies"
-        }
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "imgUrl": "https://www.stamtec.com/images/employment.png",
+    "title": "Project Manager",
+    "employer": "Stamtec, Inc",
+    "employerWebsite": "https://www.stamtec.com",
+    "jobPostingUrl": "https://urldefense.com/v3/__https:/www.stamtec.com/employment__;!!EjwLaf5ypvk!vw1LWTpAs6q3Nt72MWISRezHg_KankH2Zwg2y5drLPBZ-dOfWAydxUaAhVNGo_FtLgvelI3f72UBQhQ$",
+    "location": "Manchester, TN 37355",
+    "description": "\n        <strong>\n        Stamtec, Inc., a manufacturer of metal stamping and forming presses, is seeking a Project Manager/Engineer in the Sales/Projects Department. This is not a remote position. Project Manager must work from Stamtec in Manchester, TN, which is located about one hour from Nashville, ½ hour from Murfreesboro, and one hour from Chattanooga. Stamtec offers a competitive salary commensurate with experience and excellent benefits including health, dental, vision, and 401k profit sharing plan.\n        </strong>\n        <br/><br/>\n        \n        <h4>Desired Skills</h4>\n        <ol>\n            <li> Proficiency in Microsoft Office Suite and Microsoft Project  </li> \n         <li> Well-developed writing skills </li> \n         <li>  Competence in reading, understanding, and working with engineering department on AutoCAD drawings and electrical schematics. </li> \n         <li>  Technical knowledge of mechanical metal-stamping presses or related industries, especially automotive and appliance </li> \n            <li> Strong understanding of mechanical concepts and their applications. </li>\n            <li> Familiarity with manufacturing processes, machinery, and equipment. </li>\n            <li> Proactive mindset with ability to foresee potential risks and take preventive action to mitigate or avoid them. </li>\n            <li> Confidence and determination to impose success in reaching critical project milestones while enhancing customer experience and maintaining project budget. </li>\n            <li> High level of motivation & creativity to actualize solutions in fast-paced & dynamic situations. </li>\n            </li>\n            <li> An Associate’s or Bachelor’s Degree in Engineering, or Certification as a Professional Project Manager is strongly preferred </li>\n         </ol>\n        ",
+    "locationRequirement": "In-person",
+    "jobAgreementType": "Employee",
+    "jobSchedule": "Full-time",
+    "experienceLevel": "Entry-level",
+    "citizenshipRequired": true,
+    "baseSalary": "Entry Level",
+    "workHours": "1st Shift",
+    "coursesRequired": [
+      {
+        "id": "0",
+        "name": "Microcredentials"
+      }
+    ],
+    "microCredentialsRequired": [
+      {
+        "id": "0",
+        "name": "Intro to Robotics"
+      },
+      {
+        "id": "2",
+        "name": "SACA"
+      },
+      {
+        "id": "3",
+        "name": "Yaskawa"
+      }
+    ],
+    "skillsRequired": [
+      {
+        "id": "0",
+        "name": "Pneumatic Systems"
+      },
+      {
+        "id": "1",
+        "name": "Programmable Controller Systems"
+      },
+      {
+        "id": "2",
+        "name": "Electrical Systems"
+      },
+      {
+        "id": "3",
+        "name": "Metal-stamping"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://www.valeo.com/wp-content/uploads/2022/08/valeo_recherche_developpement_Bobigny_2000x884_acf_cropped.jpg",
+    "title": "CMM Technician",
+    "employer": "Valeo, Inc.",
+    "employerWebsite": "https://www.valeo.com/en/working-at-valeo/",
+    "jobPostingUrl": null,
+    "location": "Smyrna, TN 37167",
+    "description": "\n        <p>\n        As part of a global community of talented people, you will grow and thrive working on advanced technologies for greener, safer and smarter mobility. Our company culture gives all our employees the opportunity every day to #Dare.Care.Share. \n        <ul>\n            <li>Preferred 2 year Associates Applied Science Degree minimum, Basic CMM certification, and other gage certifications </li>\n            <li>Experience with Ployworks a must, any CMM equipment example: FARO, CREAFORM, etc., along with gage calibration. </li>\n            <li>Knowlege in Engine Cooling background, preferably in the automotive industry. </li>\n        </ul>\n        <ul>\n         <li> Experience with Ployworks a must, any CMM equipment example: FARO, CREAFORM, etc., along with gage calibration. </li>\n          <li> Knowlege in Engine Cooling background, preferably in the automotive industry. </li>\n\n        </ul>\n        <ul>\n        <li> Program, operate, and perform maintenance on Coordinate Measuring Machine.  </li>\n        <li> Develop and help maintain plant wide calibration systems according to QS 9000 and American Association of Laboratory Accreditation standards.</li>  \n        <li> Participate in Design review meetings to recommend acceptable datum schemes for products. </li>\n         <li> Assist with development and training of CMM and Calibration Technicians.</li>\n        </ul>\n        </p>\n       \n        ",
+    "locationRequirement": "In-person",
+    "jobAgreementType": "Employee",
+    "jobSchedule": "Full-time",
+    "experienceLevel": "Knowlege in Engine Cooling background, preferably in the automotive industry.",
+    "citizenshipRequired": true,
+    "baseSalary": "Entry Level",
+    "workHours": "1st Shift",
+    "educationRequired": "Preferred 2 year Associates Applied Science Degree minimum, Basic CMM certification, and other gage certifications.",
+    "coursesRequired": [
+      {
+        "id": "0",
+        "name": "Microcredentials"
+      }
+    ],
+    "microCredentialsRequired": [
+      {
+        "id": "0",
+        "name": "YRC-1000 Basic Operator"
+      },
+      {
+        "id": "1",
+        "name": "Engine Cooling"
+      }
+    ],
+    "skillsRequired": [
+      {
+        "id": "0",
+        "name": "Pneumatic Systems"
+      },
+      {
+        "id": "1",
+        "name": "Programmable Controller Systems"
+      },
+      {
+        "id": "2",
+        "name": "Electrical Systems"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6ifn66wkMGZeMoUjTdb6Nq4FQRJPI98004Mq9AChWfDmbljiD6mU_8E1hcFWG6iDO64&usqp=CAU",
+    "title": "Production Technician Apprentice",
+    "employer": "BASF",
+    "employerWebsite": "https://www.basf.com/us/en.html",
+    "jobPostingUrl": null,
+    "location": "Sparta, TN 38583",
+    "description": "\n            <p>\n            To be a successful completetionist of the apprenticeship and remain as a BASF employee they must successfully complete all OJT requirements, work safely, have good attendance, and maintain a 2.0 GPA per class. \n            </p>\n        ",
+    "locationRequirement": "In-person",
+    "jobAgreementType": "Employee",
+    "jobSchedule": "Full-time",
+    "experienceLevel": "Entry-level",
+    "citizenshipRequired": true,
+    "baseSalary": "Entry-level",
+    "workHours": "1st Shift",
+    "educationRequired": "AAS General Studies by end of six (6) semesters",
+    "coursesRequired": [
+      {
+        "id": "SACA,C-201",
+        "name": "MicroCredentials"
+      },
+      {
+        "id": "SACA,C-210",
+        "name": "Mechanical Power Systems 1"
+      }
+    ],
+    "microCredentialsRequired": [
+      {
+        "id": "0",
+        "name": "YRC-1000 Basic Operator"
+      },
+      {
+        "id": "1",
+        "name": "Intro to Robotics"
+      },
+      {
+        "id": "2",
+        "name": "Robotic Safety Principles"
+      },
+      {
+        "id": "3",
+        "name": "Level 1: Siemens Certified Mechatronics System Assistant"
+      },
+      {
+        "id": "4",
+        "name": "Yaskawa"
+      }
+    ],
+    "skillsRequired": [
+      {
+        "id": "0",
+        "name": "MSCC 1300 - First-Year Experience"
+      },
+      {
+        "id": "1",
+        "name": "READ 0810 - Learning Support Reading"
+      },
+      {
+        "id": "2",
+        "name": "MECH 1310 - Electrical Components"
+      },
+      {
+        "id": "3",
+        "name": "MECH 1320 - Mechanical Components and Electrical Drives"
+      },
+      {
+        "id": "4",
+        "name": "Electrical Systems"
+      },
+      {
+        "id": "5",
+        "name": "INFS 1010 - Computer Applications"
+      },
+      {
+        "id": "7",
+        "name": "ENGL 1010 - English Composition I"
+      },
+      {
+        "id": "8",
+        "name": "INFS 1010 - Computer Applications"
+      },
+      {
+        "id": "9",
+        "name": "HPE 2320 - First Aid and Safety"
+      },
+      {
+        "id": "10",
+        "name": "Programmable Controller Systems"
+      },
+      {
+        "id": "11",
+        "name": "BUSN 1310 - Business Communications"
+      },
+      {
+        "id": "12",
+        "name": "MATH 0101 - Learning Support Math-General St"
+      },
+      {
+        "id": "13",
+        "name": "MATH 1010 - Math for General Studies"
+      }
+    ]
+  }
+]
