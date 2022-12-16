@@ -15,26 +15,44 @@
       "citizenshipRequired": true,
       "baseSalary": "Entry Level",
       "workHours": "1st Shift",
-      "coursesRequired": [],
+      "coursesRequired": [
+        {
+          "id": "0",
+          "name": "Microcredentials"
+        }
+      ],
       "microCredentialsRequired": [
         {
           "id": "0",
-          "name": "Microsoft Office"
-        },
-        {
-          "id": "1",
-          "name": "Writing Skills"
+          "name": "Intro to Robotics"
         },
         {
           "id": "2",
-          "name": "AutoCAD"
+          "name": "SACA"
+        },
+        {
+          "id": "3",
+          "name": "Yaskawa"
+        }
+      ],
+      "skillsRequired": [
+        {
+          "id": "0",
+          "name": "Pneumatic Systems"
+        },
+        {
+          "id": "1",
+          "name": "Programmable Controller Systems"
+        },
+        {
+          "id": "2",
+          "name": "Electrical Systems"
         },
         {
           "id": "3",
           "name": "Metal-stamping"
         }
-      ],
-      "skillsRequired": []
+      ]
     },
     {
       "id": 2,
@@ -53,18 +71,36 @@
       "baseSalary": "Entry Level",
       "workHours": "1st Shift",
       "educationRequired": "Preferred 2 year Associates Applied Science Degree minimum, Basic CMM certification, and other gage certifications.",
-      "coursesRequired": [],
+      "coursesRequired": [
+        {
+          "id": "0",
+          "name": "Microcredentials"
+        }
+      ],
       "microCredentialsRequired": [
         {
           "id": "0",
-          "name": "Ployworks"
+          "name": "YRC-1000 Basic Operator"
         },
         {
           "id": "1",
           "name": "Engine Cooling"
         }
       ],
-      "skillsRequired": []
+      "skillsRequired": [
+        {
+          "id": "0",
+          "name": "Pneumatic Systems"
+        },
+        {
+          "id": "1",
+          "name": "Programmable Controller Systems"
+        },
+        {
+          "id": "2",
+          "name": "Electrical Systems"
+        }
+      ]
     },
     {
       "id": 3,
@@ -86,18 +122,35 @@
       "coursesRequired": [
         {
           "id": "SACA,C-201",
-          "name": "Electrical Systems 1"
+          "name": "MicroCredentials"
         },
         {
           "id": "SACA,C-210",
           "name": "Mechanical Power Systems 1"
-        },
-        {
-          "id": "SACA,C-209",
-          "name": "Pneumatic Systems 1"
         }
       ],
-      "microCredentialsRequired": [],
+      "microCredentialsRequired": [
+        {
+          "id": "0",
+          "name": "YRC-1000 Basic Operator"
+        },
+        {
+          "id": "1",
+          "name": "Intro to Robotics"
+        },
+        {
+          "id": "2",
+          "name": "Robotic Safety Principles"
+        },
+        {
+          "id": "3",
+          "name": "Level 1: Siemens Certified Mechatronics System Assistant"
+        },
+        {
+          "id": "4",
+          "name": "Yaskawa"
+        }
+      ],
       "skillsRequired": [
         {
           "id": "0",
@@ -117,7 +170,7 @@
         },
         {
           "id": "4",
-          "name": "ENGL 0810 - Learning Support Writing"
+          "name": "Electrical Systems"
         },
         {
           "id": "5",
@@ -137,7 +190,7 @@
         },
         {
           "id": "10",
-          "name": "Elective (BUSN 1300, HPE 2300, or HPE 2340)"
+          "name": "Programmable Controller Systems"
         },
         {
           "id": "11",
@@ -154,3 +207,4 @@
       ]
     }
   ]
+  
