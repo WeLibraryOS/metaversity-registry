@@ -1,6 +1,93 @@
 [
     {
       "id": 1,
+      "imgUrl": "https://images7.bamboohr.com/160356/logos/cropped.jpg?v=30",
+      "title": "CAD Drafter",
+      "employer": "Stamtec, Inc",
+      "employerWebsite": "https://www.hormann.us/",
+      "jobPostingUrl": "https://hormann.bamboohr.com/careers/275",
+      "location": "Sparta, TN 38583",
+      "description": "<strong>Breaks down information obtained from specifications, sketches, customer layout drawings and instructions furnished by others and convert the information into detailed drawings with section views and dimensions using CAD applications. Responsible for determining whether drawings can be executed efficiently and within expected tolerances. Prepares bills of materials and specifications. Additionally, the individual is expected to be a vital team member in further expanding and developing the companies product data management system as well as providing vital input in developing the processes and procedures related to product development and the ECR/ECO process.</strong><h4>Major Responsibilities/Activities:</h4><br/><br/><ul><li>Drafting custom drawings both for external and internal customers.</li><li>Provides detailed component description such as dimensions, materials, and procedures for door, equipment, facility, and marketing drawings.</li><li>Manages multiple design variations, template development, and electronic drawing storage.</li><li>Works from customer drawings, company drawings, vendor drawings and/or other specifications.</li><li>Stores and manages drawing files electronically via Windchill PDM.</li><li>Assists Engineering with projects including driving smaller projects to completion and assisting the team with large projects.</li><li>Provides timely response to customer request in fast-paced, demanding environment.</li><li>Other duties as assigned by management. </li></ul><h4>Minimum Requirements:</h4><br/><br/><ul><li>Graduation from High School or equivalent.</li><li>Minimum of 4 years CAD based design experience preferred.</li><li>Basic proficiency with CAD software – CREO and AutoCAD familiarity preferred, mechanical and technical capacity, geometric dimensioning and tolerancing (GD&amp;T)</li><li>Critical thinking skills, strong customer service skills, strong oral and written communication skills, problem solving/analysis skills </li><li>CAD, CAD/CAM Design</li></ul><br/><br/><h4>Equipment Used:</h4><br/>This position will primarily use a computer to perform most work tasks.<br/><h4>Additional Comments:</h4><br/>As an international corporation, Hörmann LLC prizes diversity in all positions; therefore, candidates with second language ability especially in Spanish or German will be given additional consideration; however, fluency in English is required.People who are looking for careers and not jobs, people who like challenges and excitement, and like leaving their “fingerprint” on significant projects and tasks will find a “wonderful home” with us at Hormann.",
+      "locationRequirement": "In-person",
+      "jobAgreementType": "Employee",
+      "jobSchedule": "Full-time",
+      "experienceLevel": "Mid-level",
+      "citizenshipRequired": false,
+      "baseSalary": "Mid-Level",
+      "workHours": "1st Shift",
+      "coursesRequired": [
+        {
+          "id": "0",
+          "name": "Microcredentials"
+        }
+      ],
+      "microCredentialsRequired": [
+        {
+          "id": "0",
+          "name": "Intro to Robotics"
+        },
+        {
+          "id": "2",
+          "name": "SACA"
+        },
+        {
+          "id": "3",
+          "name": "Yaskawa"
+        }
+      ],
+      "skillsRequired": [
+        {
+          "id": "0",
+          "name": "MSCC 1300 - First-Year Experience"
+        },
+        {
+          "id": "1",
+          "name": "READ 0810 - Learning Support Reading"
+        },
+        {
+          "id": "2",
+          "name": "MECH 1310 - Electrical Components"
+        },
+        {
+          "id": "3",
+          "name": "MECH 1320 - Mechanical Components and Electrical Drives"
+        },
+        {
+          "id": "4",
+          "name": "Electrical Systems"
+        },
+        {
+          "id": "5",
+          "name": "INFS 1010 - Computer Applications"
+        },
+        {
+          "id": "7",
+          "name": "ENGL 1010 - English Composition I"
+        },
+        {
+          "id": "8",
+          "name": "INFS 1010 - Computer Applications"
+        },
+        {
+          "id": "9",
+          "name": "HPE 2320 - First Aid and Safety"
+        },
+        {
+          "id": "10",
+          "name": "Programmable Controller Systems"
+        },
+        {
+          "id": "11",
+          "name": "BUSN 1310 - Business Communications"
+        },
+        {
+          "id": "12",
+          "name": "MATH 1010 - Math for General Studies"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "imgUrl": "https://www.stamtec.com/images/employment.png",
       "title": "Project Manager",
       "employer": "Stamtec, Inc",
@@ -55,7 +142,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "imgUrl": "https://www.valeo.com/wp-content/uploads/2022/08/valeo_recherche_developpement_Bobigny_2000x884_acf_cropped.jpg",
       "title": "CMM Technician",
       "employer": "Valeo, Inc.",
@@ -103,7 +190,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6ifn66wkMGZeMoUjTdb6Nq4FQRJPI98004Mq9AChWfDmbljiD6mU_8E1hcFWG6iDO64&usqp=CAU",
       "title": "Production Technician Apprentice",
       "employer": "BASF",
