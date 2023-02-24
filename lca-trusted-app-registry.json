@@ -7,7 +7,7 @@
         },
         "url": "https://www.smartresume.com/", 
         "did": "did:web:network.learncard.com:users:smartresume",
-        "profileId": "SmartResumeTestProfileId",
+        "profileId": "smartresumetestprofileid",
         "app": {
            "name": "SmartResume",
            "description": "Job & Talent Marketplace",
