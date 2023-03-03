@@ -1,12 +1,12 @@
 [
-    {
-        "id": "LearnCard Network",
-        "url": "https://network.learncard.com",
-        "did": "did:web:network.learncard.com",
-    },
-    {
-        "id": "Localhost Network",
-        "url": "https://localhost%3A3000",
-        "did": "did:web:localhost%3A3000",
-    },
+  {
+    "id": "LearnCard Network",
+    "url": "https://network.learncard.com",
+    "did": "did:web:network.learncard.com"
+  },
+  {
+    "id": "Localhost Network",
+    "url": "https://localhost%3A3000",
+    "did": "did:web:localhost%3A3000"
+  }
 ]
