@@ -1,7 +1,7 @@
 [
     { 
         "id": "Motlow Community College", 
-        "url": "https://metaversitynonprod.azurewebsites.net", 
-        "did": "did:metaversitynonprod.azurewebsites.net"
+        "url": "https://metaversity.azurewebsites.net", 
+        "did": "did:metaversity.azurewebsites.net"
     }
 ]
