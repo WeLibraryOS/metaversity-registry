@@ -14,6 +14,41 @@
     "type": "ext:Workshop",
     "url": "https://cdn.filestackcontent.com/AspasAYhTDi0j7SJm4Jv"
   },
+  {
+    "category": "Achievement",
+    "type": "ext:Language",
+    "url": "https://cdn.filestackcontent.com/S5AObJsQeet05XRFoJw6"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Language",
+    "url": "https://cdn.filestackcontent.com/XHlsXMJsRh2h4jpnQGrz"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Training",
+    "url": "https://cdn.filestackcontent.com/hvy9ZcJOS0aGVd03Ogmx"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Training",
+    "url": "https://cdn.filestackcontent.com/sllvzHDXTXSBWnumaD6O"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Training",
+    "url": "https://cdn.filestackcontent.com/qZpDKdqwQDSEq2FvQSV4"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Upskilling",
+    "url": "https://cdn.filestackcontent.com/zffPlP8GQsOaI7s84JsK"
+  },
+  {
+    "category": "Achievement",
+    "type": "ext:Upskilling",
+    "url": "https://cdn.filestackcontent.com/BMpr0eRoTb6fQ00W2TPU"
+  },
 
   {
     "category": "Social Badge",
@@ -430,5 +465,16 @@
     "category": "Work History",
     "type": "ext:Volunteer",
     "url": "https://cdn.filestackcontent.com/BTUCCDpRwjjWPWIZe6qw"
+  },
+
+  {
+    "category": "Skill",
+    "type": "Assessment",
+    "url": "https://cdn.filestackcontent.com/508jUkhaTPafLVfpqCRR"
+  },
+  {
+    "category": "Skill",
+    "type": "Assessment",
+    "url": "https://cdn.filestackcontent.com/KnDAzmTfQCK1fJjJJoc5"
   }
 ]
