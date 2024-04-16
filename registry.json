@@ -11,5 +11,12 @@
         "did": "did:key:z6MkhWSPTqyRcd5oXNXsf7WXYAqx8gWtp8VhVVYbHPeQjjqs",
         "image": "https://cdn.filestackcontent.com/feuMCVimQpCWzOEkva5Q",
         "membershipId": "6601231420f743409a062cb6"
+    },
+        { 
+        "id": "LearnFleet Academy", 
+        "url": "https://bridge.demo.learncloud.ai", 
+        "did": "did:web:network.learncard.com:users:learnfleet-academy",
+        "image": "https://cdn.filestackcontent.com/lq3smJpRLSNQCD0Nt5Qm",
+        "membershipId": "661edd3f26d9f028f3a9990e"
     }
 ]
