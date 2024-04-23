@@ -1,18 +1,5 @@
 [
     { 
-        "id": "Motlow Community College", 
-        "url": "https://metaversity.azurewebsites.net", 
-        "did": "did:metaversity.azurewebsites.net",
-        "image": "https://cdn.filestackcontent.com/LUYS5oRNq8oAUT1akg7w"
-    },
-    { 
-        "id": "Starfleet Academy", 
-        "url": "https://bridge.demo.learncloud.ai", 
-        "did": "did:key:z6MkhWSPTqyRcd5oXNXsf7WXYAqx8gWtp8VhVVYbHPeQjjqs",
-        "image": "https://cdn.filestackcontent.com/feuMCVimQpCWzOEkva5Q",
-        "membershipId": "6601231420f743409a062cb6"
-    },
-        { 
         "id": "LearnFleet Academy", 
         "url": "https://bridge.demo.learncloud.ai", 
         "did": "did:web:network.learncard.com:users:learnfleet-academy",
