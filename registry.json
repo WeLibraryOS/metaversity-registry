@@ -5,5 +5,12 @@
         "did": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
         "image": "https://cdn.filestackcontent.com/vFQr8M0RQnInJQHWsHjT",
         "membershipId": "661edd3f26d9f028f3a9990e"
+    },
+    { 
+        "id": "LearnFleet Academy", 
+        "url": "https://fleet.learncloud.ai/api/issue-user-credentials", 
+        "did": "did:web:network.learncard.com:users:learnfleet-academy",
+        "image": "https://cdn.filestackcontent.com/vFQr8M0RQnInJQHWsHjT",
+        "membershipId": "663e7ca11479e04d99a0689d"
     }
 ]
