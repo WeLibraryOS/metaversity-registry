@@ -1,6 +1,110 @@
 [
     {
       "id": 1,
+      "imgUrl": "https://cdn.topcarnews.net/media/wp-content/uploads/2022/07/20035522/image-envision-aesc-is-building-another-battery-plant-in-spain-165823892232437.png",
+      "title": "Maintenance Technician",
+      "employer": "Envision AESC",
+      "employerWebsite": "https://www.envision-aesc.com/en/",
+      "jobPostingUrl": "https://www.indeed.com/viewjob?jk=da07b0b402813fc0&q=mechatronics&l=Smyrna%2C%20TN&tk=1gkm8gu71m0ic801&from=web&advn=214904501142972&adid=392770028&ad=-6NYlbfkN0Bm8rsEYbBND57uufSzjaG2SoeGfROknIaFkfmj4wObH-LDaVJnG-ngLES1vs1jhg35LifRzBYkqXATPscnT-4kB8DK-DVVMDfBGwK5d3dIqRHgBzdx7E-fzZY_XjTHLCuTgEttPpkQBvRuY6H1GGneR-MOZavlDl_4Ga0eaXsZZzduX3kwVJDc5tL_vK7ryY9CQ1qk8km3NWfTSYvTIw5TvOUYiBFAA6uaTb_b54JAO6c7GAEoSbti7XoNorqSfeeOOnhDygMIQH-HrB3ULaZF6cufq9CKw8IWnPaFBtf3_RY1cbm9f4zZNaKiL1K2ibFCpwZX7mBH93x1B6yKViNry_VUt0Murizl8brdL19WCc1CmmiyuQXhpqyKAlAljNsKlmr2DjiFuQ%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAr-_M3VWZMESw9aB0PbzkdCdPP&vjs=3",
+      "location": "Smyrna, TN 37167",
+      "description": "<div><p><b>Join the Envision AESC Team!</b></p><p><b>We are currently hiring Maintenance Controls Technicians in our Smyrna, TN plant.</b></p><p>The Maintenance Controls Tech will get hands on experience working with Programmable Logic Controllers working in a clean, temperature controlled and highly technical mechanical facility.</p><p><b>What’s in it for YOU?</b></p><ul> <li><b>Hourly rate $28.14 to $34.82 (based on experience)</b></li> <li><b>Night Shift Position (Mon-Thurs: 8pm – 6:30am with $1.20/hr shift premium</b></li> <li>Hands on and in-depth experience working with PLCs daily</li> <li>Medical, Dental and Vision Insurance</li> <li>401k with company match plus annual retirement contribution</li> <li>Paid Vacation and 14 Paid Holidays</li> <li>Tuition reimbursement</li> <li>And much more!</li></ul><p><b>What will you do in this role?</b></p><ul> <li>Train to be a Controls Engineer starting on Day 1!</li> <li>Learn to read and interpret electrical and mechanical drawings and schematics describing PLC-based control systems</li> <li>Upkeep, troubleshoot and repair mechanical, pneumatic and electronic subsystems on highly automated process lines and related equipment</li> <li>Promote and support a safe work environment and safety-oriented culture by following all safety programs and guidelines</li></ul><p><b>What does it take to be successful in this role?</b></p><ul> <li>Associates Degree in Machine Tool Technology, Mechatronics or related program preferred</li> <li>3-5 years of Industrial Maintenance experience OR 0-2 years of experience and a two-year technical degree, industrial maintenance certification or equivalent</li> <li>Programmable Logic Controllers (PLC’s): Knowledge and ability to troubleshoot and modify/create programs is preferred (creating, editing and troubleshooting)</li></ul><p><b>Learn more: </b>https://vimeo.com/758796866/a4c3f3f2d5</p><p>Envision AESC is the world's leading battery technology company. Through AIoT-driven innovations in battery technology and multidisciplinary applications, Envision AESC establishes scenarios to enable electric vehicles to participate in the renewable energy eco-system and provides a dynamic balance to the common development of clean energy and new energy electric vehicle industry.</p><p>All of us at Envision AESC – regardless of functional area or expertise – share a passion to design, manufacture, and sell high-performance products. It is our policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, disability, or any other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment eligibility at the time of hire.</p><p>Job Type: Full-time</p><p>Pay: $28.14 - $34.82 per hour</p><p>Schedule:</p><ul> <li>10 hour shift</li> <li>12 hour shift</li> <li>Overnight shift</li> <li>Weekend availability</li></ul><p>Application Question(s):</p><ul> <li>Do you have an Associates Degree in a related field (i.e. Mechatronics, Engineering, Industrial Maintenance) OR 3-5 years of on the job experience in an automated industrial facility?</li></ul><p>Work Location: One location</p></div>",
+      "locationRequirement": "In-person",
+      "jobAgreementType": "Employee",
+      "jobSchedule": "Full-time",
+      "experienceLevel": "Entry-level",
+      "citizenshipRequired": true,
+      "baseSalary": "Entry-level",
+      "workHours": "Night Shift",
+      "educationRequired": "Associates Degree in Mechatronics or Related Field",
+      "coursesRequired": [
+        {
+          "id": "SACA,C-201",
+          "name": "Microcredentials"
+        },
+        {
+          "id": "SACA,C-210",
+          "name": "Mechanical Power Systems 1"
+        }
+      ],
+      "microCredentialsRequired": [
+        {
+          "id": "0",
+          "name": "YRC-1000 Basic Operator"
+        },
+        {
+          "id": "1",
+          "name": "Intro to Robotics"
+        },
+        {
+          "id": "2",
+          "name": "Robotic Safety Principles"
+        },
+        {
+          "id": "3",
+          "name": "Level 1: Siemens Certified Mechatronics System Assistant"
+        },
+        {
+          "id": "4",
+          "name": "Yaskawa"
+        }
+      ],
+      "skillsRequired": [
+        {
+          "id": "0",
+          "name": "MSCC 1300 - First-Year Experience"
+        },
+        {
+          "id": "1",
+          "name": "READ 0810 - Learning Support Reading"
+        },
+        {
+          "id": "2",
+          "name": "MECH 1310 - Electrical Components"
+        },
+        {
+          "id": "3",
+          "name": "MECH 1320 - Mechanical Components and Electrical Drives"
+        },
+        {
+          "id": "4",
+          "name": "Electrical Systems"
+        },
+        {
+          "id": "5",
+          "name": "INFS 1010 - Computer Applications"
+        },
+        {
+          "id": "7",
+          "name": "ENGL 1010 - English Composition I"
+        },
+        {
+          "id": "8",
+          "name": "INFS 1010 - Computer Applications"
+        },
+        {
+          "id": "9",
+          "name": "HPE 2320 - First Aid and Safety"
+        },
+        {
+          "id": "10",
+          "name": "Programmable Controller Systems"
+        },
+        {
+          "id": "11",
+          "name": "BUSN 1310 - Business Communications"
+        },
+        {
+          "id": "12",
+          "name": "MATH 0101 - Learning Support Math-General St"
+        },
+        {
+          "id": "13",
+          "name": "MATH 1010 - Math for General Studies"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "imgUrl": "https://www.stamtec.com/images/employment.png",
       "title": "Project Manager",
       "employer": "Stamtec, Inc",
@@ -55,7 +159,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "imgUrl": "https://www.valeo.com/wp-content/uploads/2022/08/valeo_recherche_developpement_Bobigny_2000x884_acf_cropped.jpg",
       "title": "CMM Technician",
       "employer": "Valeo, Inc.",
@@ -103,7 +207,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6ifn66wkMGZeMoUjTdb6Nq4FQRJPI98004Mq9AChWfDmbljiD6mU_8E1hcFWG6iDO64&usqp=CAU",
       "title": "Production Technician Apprentice",
       "employer": "BASF",
