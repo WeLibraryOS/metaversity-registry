@@ -5,19 +5,5 @@
         "did": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
         "image": "https://hotpressapparel.com/cdn/shop/collections/120.SQ_large.jpg?v=1610582041",
         "membershipId": "6789515f42f4c4754ad2aaa1"
-    },
-    { 
-        "id": "LearnFleet Academy", 
-        "url": "https://bridge.demo.learncloud.ai", 
-        "did": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
-        "image": "https://cdn.filestackcontent.com/vFQr8M0RQnInJQHWsHjT",
-        "membershipId": "661edd3f26d9f028f3a9990e"
-    },
-    { 
-        "id": "LearnFleet Academy, Inc.", 
-        "url": "https://fleet.learncloud.ai/api/data-source", 
-        "did": "did:web:network.learncard.com:users:learnfleet-academy",
-        "image": "https://cdn.filestackcontent.com/vFQr8M0RQnInJQHWsHjT",
-        "membershipId": "663e7ca11479e04d99a0689d"
     }
 ]
